@@ -17,7 +17,7 @@ To successful run this code , you need to have Rust and Cargo installed on your 
 Just clone the repo and use cargo to run the code as shown below 
 
 ```bash
-    $ git clone https://github.com/Kalebu/Rust-bouncygame
+    $ git clone https://github.com/shibam120302/Rust-bouncygame
     $ cd Rust-bouncygame
     Rust-bouncygame->$ cargo run 
 ```
